@@ -1,3 +1,5 @@
+//noprotect
+
 var precio_base = 2000
 
 var edad_18 = 0.1
@@ -71,8 +73,8 @@ else if( edad_conyuge >= 50) {
 
 }
 
-if(cantidad_hijos >= 1) {
-  recargo = precio_base * hijos_recargo
+if(cantidad_hijos) {
+  recargo = (precio_base * hijos_recargo) * cantidad_hijos
   recargo_total = recargo_total + recargo
  
 }
