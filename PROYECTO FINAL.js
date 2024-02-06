@@ -16,7 +16,7 @@ var recargo_total = 0
 var precio_final = 0
 
 var nombre = prompt("Ingrese su nombre, por favor")
-var edad = parseInt(prompt("¿Cuantos años tiene? Ingrese solamente números "))
+var edad = parseInt(prompt("¿Cuantos años tiene?"))
 
 var casado = prompt("¿Está casado actualmente?")
 var edad_conyuge 
