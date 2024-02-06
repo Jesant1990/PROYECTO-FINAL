@@ -1,0 +1,37 @@
+ALGORITMO
+
+1)Solicitar datos iniciales al usuario:
+-Pedir al usuario que ingrese su nombre.
+-Pedir al usuario que ingrese su edad.
+-Preguntar al usuario si esta casado.
+-Preguntar al usuario la edad de su conyugue
+-preguntar al usuario si tiene hijos
+-preguntar al usuario la cantidad de hijos
+
+2)Calcular la cotización base:
+-Establecer un valor predeterminado para la cotización base (2000).
+
+3)Recargos:
+-Establecer recargo por edad:
+ 18 años a 24 años 10% de recargo.
+ 24 años a 49 años 20% de recargo.
+ 50 años o mas 30% de recargo. 
+-Establecer recargo del conyugue por edad solo si:
+ 18 años a 24 años 10% de recargo.
+ 24 años a 49 años 20% de recargo.
+ 50 años o mas 30% de recargo.
+-Establecer recargo por cada hijo del 20%
+
+4)Calcular recargo 
+-calcular recargo segun la edad del usuario
+-calcular recargo segun la edad del conyuge si la respuesta es si
+-calcular recargo por cada hijo si la respuesta es si
+-multiplicar el recargo por la cotizacion base para obtener los recargos
+
+5)Calcular cotizacion total
+-Sumar la cotizacion base mas el recargo.
+
+6)Mostrar la cotización al usuario:
+-Mostrar nombre del usuario.
+-Mostar el recargo total al usuario.
+-Mostrar la cotización total al usuario.
