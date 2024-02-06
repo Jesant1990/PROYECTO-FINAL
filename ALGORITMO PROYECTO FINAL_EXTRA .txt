@@ -15,8 +15,10 @@ ALGORITMO
 4)Calcular recargo por propiedades e ingresos:
 -Crear una función para calcular el recargo basado en la cantidad de propiedades.
 -Calcular el recargo multiplicando la cantidad de propiedades por un 35% de la cotización base.
+-Multiplicar la cotizacion base por el recargo de poropiedades por la cantidad de propiedades
 -Crear otra función para calcular el recargo basado en los ingresos del asegurado.
 -Calcular el recargo multiplicando los ingresos por un 5% de la cotización base.
+-Multiplicar la cotizacion base por el recargo de ingresos
 
 5)Calcular cotización total:
 -Sumar la cotización base, el recargo por propiedades y el recargo por ingresos para obtener la cotización total.
