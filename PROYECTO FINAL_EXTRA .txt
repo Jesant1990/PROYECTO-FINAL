@@ -1,0 +1,33 @@
+ALGORITMO
+
+1)Solicitar datos iniciales al usuario:
+-Pedir al usuario que ingrese su nombre.
+-Solicitar al usuario la cantidad de propiedades que posee.
+-Obtener el monto de los ingresos del asegurado.
+-Agregar bucle para múltiples cotizaciones:
+
+2)Iniciar un bucle infinito para permitir solicitar cotizaciones continuamente.
+-En cada iteración, preguntar al usuario si desea salir ingresando la palabra "Salir". Si es así, salir del bucle.
+
+3)Calcular la cotización base:
+-Establecer un valor predeterminado para la cotización base (2000).
+
+4)Calcular recargo por propiedades:
+-Crear una función para calcular el recargo basado en la cantidad de propiedades.
+-Calcular el recargo multiplicando la cantidad de propiedades por un 35% de la cotización base.
+
+5)Calcular recargo por ingresos:
+-Crear otra función para calcular el recargo basado en los ingresos del asegurado.
+-Calcular el recargo multiplicando los ingresos por un 5% de la cotización base.
+
+6)Calcular cotización total:
+-Sumar la cotización base, el recargo por propiedades y el recargo por ingresos para obtener la cotización total.
+
+7)Mostrar la cotización al usuario:
+-
+-Mostar el recargo por propiedades y por ingresos.
+-Mostrar la cotización total al usuario.
+
+8)Repetir el proceso o salir del programa:
+-Volver al paso 2 para solicitar más cotizaciones si el usuario no ingresa la palabra "Salir".
+-Si el usuario ingresa "Salir", finalizar el programa y despedirse.
