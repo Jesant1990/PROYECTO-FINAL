@@ -1,0 +1,13 @@
+El problema consiste en modificar un programa existente que realiza una sola cotización para que ahora solicite cotizaciones de manera 
+repetida hasta que el usuario ingrese la palabra "Salir" además se debe agregar funcionalidad para calcular recargos extras basados en 
+la cantidad de propiedades y los ingresos del asegurado, estos recargos incluyen un 35% de la cotización por cada propiedad y un 5% sobre 
+el salario del asegurado.
+
+En términos generales el programa original podría haber sido diseñado para calcular el costo de un seguro basándose en información proporcionada 
+por el usuario, la cantidad de propiedades y los ingresos del asegurado La mejora propuesta implica permitir al usuario realizar múltiples solicitudes 
+de cotización, aplicar recargos adicionales según la cantidad de propiedades y los ingresos del asegurado y continuar solicitando cotizaciones hasta que 
+el usuario decida salir del programa.
+
+Las partes clave a abordar incluyen la implementación de un bucle para solicitar cotizaciones repetidas, el cálculo de recargos adicionales utilizando la 
+información proporcionada por el usuario y la presentación de la cotización total después de cada solicitud La modificación del programa deberá garantizar 
+la usabilidad y el manejo adecuado de la entrada del usuario permitiendo una interacción más flexible y completa con el sistema de cotización.
