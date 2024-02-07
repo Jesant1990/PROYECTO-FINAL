@@ -54,9 +54,7 @@ do{
       cantidad_ingresos = parseInt(prompt("¿Cuales son sus ingresos?"))
     
     }
-    
-    debugger;
-      
+          
     if(edad >= 18 && edad < 25){
       recargo = precio_base * edad_18
       recargo_total = recargo_total + recargo
