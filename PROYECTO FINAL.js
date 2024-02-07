@@ -1,5 +1,3 @@
-//noprotect
-
 var precio_base = 2000
 
 var edad_18 = 0.1
