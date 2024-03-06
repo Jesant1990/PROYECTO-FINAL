@@ -1,4 +1,4 @@
-FUNCIONAMIENTO DEL PROGRAMA PROYECTOFINAL_EXTRA
+##FUNCIONAMIENTO DEL PROGRAMA PROYECTOFINAL_EXTRA
 
 Para entender el funcionamiento del programa y realizar las mejoras solicitadas, es necesario analizar sus partes principales, asumiré que el programa original realiza una cotización de seguro y a partir de la solicitud se generarán recargos adicionales según la cantidad de propiedades y los ingresos del asegurado.
 
